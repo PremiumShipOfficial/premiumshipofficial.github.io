@@ -3,9 +3,10 @@
 
 
 @font-face {
-    font-family: 'determination_mono_webregular';
+    font-family: 'determination_mono';
     src: url('determinationmonowebregular-z5oq-webfont.woff2') format('woff2'),
-         url('determinationmonowebregular-z5oq-webfont.woff') format('woff');
+         url('determinationmonowebregular-z5oq-webfont.woff') format('woff')
+         url('determinationmonowebregular-z5oq-webfont.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
 
