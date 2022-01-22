@@ -4,9 +4,9 @@
 
 @font-face {
     font-family: 'determination_mono';
-    src: url('determinationmonowebregular-z5oq-webfont.woff2') format('woff2'),
-         url('determinationmonowebregular-z5oq-webfont.woff') format('woff');
-         url('determinationmonowebregular-Z5oq-webfont.ttf') format('truetype');
+    src:url('determinationmonowebregular-Z5oq-webfont.ttf') format('truetype'),
+        url('determinationmonowebregular-z5oq-webfont.woff2') format('woff2'),
+        url('determinationmonowebregular-z5oq-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
